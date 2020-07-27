@@ -1,0 +1,2 @@
+# VideoAppCorePrj
+Blazor VideoAppCore
